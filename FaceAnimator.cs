@@ -7,7 +7,6 @@ public class FaceAnimator : MonoBehaviour
     public enum FACE_ANIMATION
     {
         E_MOUTH_A,
-        E_MOUTH_O,
         E_MOUTH_M,
         E_EYES_ANGER,
         E_EYES_TIRED,
